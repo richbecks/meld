@@ -91,3 +91,4 @@ def setup_wheel():
     DATADIR = melddir / "share" / "meld"
     LOCALEDIR = melddir / "share" / "locale"
     DATADIR_IS_UNINSTALLED = True
+    IS_DEVEL = False
